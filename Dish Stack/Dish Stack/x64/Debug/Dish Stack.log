@@ -1,0 +1,3 @@
+﻿  Dish Stack.cpp
+C:\Users\D242U18\Documents\GitHub\a-stack-of-dishes-Narwaffle22\Dish Stack\Dish Stack\Dish Stack.cpp(55,1): warning C4715: 'DishStack::peek': not all control paths return a value
+  Dish Stack.vcxproj -> C:\Users\D242U18\Documents\GitHub\a-stack-of-dishes-Narwaffle22\Dish Stack\x64\Debug\Dish Stack.exe
